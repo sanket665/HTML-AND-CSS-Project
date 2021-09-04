@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: rgb(112, 141, 5);
+}
+.one{
+    padding: 20px;
+    margin: 30px;
+    background-color: rgb(243, 234, 234);
+    color: rgb(15, 17, 17);
+}
+.two{
+    background-color: rgb(17, 202, 235);
+    margin: 100px;
+}
+.three
+{
+    color: rgb(50, 8, 88);
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    
+    margin: 20px;
+}
